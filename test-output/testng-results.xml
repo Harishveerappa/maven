@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-19T20:26:08 IST" name="Default suite" finished-at="2023-08-19T20:26:27 IST" duration-ms="19124">
+    <groups>
+    </groups>
+    <test started-at="2023-08-19T20:26:08 IST" name="Default test" finished-at="2023-08-19T20:26:27 IST" duration-ms="19124">
+      <class name="com.testng.CrossBrowserTest">
+        <test-method signature="Chrome()[pri:0, instance:com.testng.CrossBrowserTest@4b013c76]" started-at="2023-08-19T20:26:08 IST" name="Chrome" finished-at="2023-08-19T20:26:16 IST" duration-ms="7666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Chrome -->
+        <test-method signature="edge()[pri:0, instance:com.testng.CrossBrowserTest@4b013c76]" started-at="2023-08-19T20:26:16 IST" name="edge" finished-at="2023-08-19T20:26:22 IST" duration-ms="5777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- edge -->
+        <test-method signature="firefox()[pri:0, instance:com.testng.CrossBrowserTest@4b013c76]" started-at="2023-08-19T20:26:22 IST" name="firefox" finished-at="2023-08-19T20:26:27 IST" duration-ms="5627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefox -->
+      </class> <!-- com.testng.CrossBrowserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
